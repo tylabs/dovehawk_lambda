@@ -13,6 +13,12 @@ Lambda Python 3.6 with public API Gateway
 
 RDS DB MYSQL/Aurora
 
+## Supported Feeds
+
+[dovehawk_dns](https://github.com/tylabs/dovehawk_dns) Zeek pDNS Collector
+
+(Coming Soon) Zeek Netflow Collector
+
 ## Contact
 
 Tyler McLellan [@tylabs](https://twitter.com/tylabs)
